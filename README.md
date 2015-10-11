@@ -1,4 +1,4 @@
-# jsut-tasks
+# just-tasks
 
 just-tasks is a very simple module to run 'tasks'. In essence it's just a rename of node's own `EventEmitter` interface, with semantics to match its function.
 
