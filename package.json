@@ -1,0 +1,25 @@
+{
+  "name": "just-tasks",
+  "version": "0.0.1",
+  "description": "Just a simple task runner interface",
+  "main": "TaskRunner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MichielvdVelde/just-task.git"
+  },
+  "keywords": [
+    "events",
+    "EventEmitter",
+    "tasks",
+    "taskrunner"
+  ],
+  "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichielvdVelde/just-task/issues"
+  },
+  "homepage": "https://github.com/MichielvdVelde/just-task#readme"
+}
